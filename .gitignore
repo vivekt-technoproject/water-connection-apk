@@ -1,0 +1,15 @@
+# Environment and backup files
+.env
+.env*
+.env.*
+.env.bak
+.env.*.bak
+*.env
+*.env.*
+*.bak
+!.env.dev
+
+# Logs & temp
+*.log
+*.tmp
+.DS_Store
